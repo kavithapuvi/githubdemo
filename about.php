@@ -1,3 +1,5 @@
+<---NOW CHANGING LINES IN THIS--->
+    Hi ABOUT
 <?php include 'includes/header.php'; ?>
 
     <div class="pageTitle">About us</div>
